@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "もう一つの世界 (Alt. ver.)",
+  "base_artist": "Hakubi",
+  "createdAt": "2026-03-09T14:15:26.009783Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "もう一つの世界 (Alt. ver.)",
+      "artist": "27",
+      "has_synced": true,
+      "path": "select/01_もう一つの世界_(Alt._ver.)_27.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もう一つの世界",
+      "artist": "Hakubi",
+      "has_synced": false,
+      "path": "select/pl_01_もう一つの世界_Hakubi.txt"
+    }
+  ]
+}
